@@ -1,5 +1,5 @@
-# VCTM-CTF-Challenges
-A repository to host VCTM CTF challenges
+# VCTM CTF Practice Challenges
+A repository to host VCTM CTF practice challenges
 
 Challenge-1 (Crypto)
 ---------------------
