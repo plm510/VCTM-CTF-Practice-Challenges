@@ -1,7 +1,7 @@
 Challenge-2 (cracking)
 -----------------------
 
-challenge file: endgame
+Challenge file: endgame
 
 Challenge: Crack the binary, get the flag.
 
